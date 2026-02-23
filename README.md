@@ -1,7 +1,11 @@
+<div align="center">
+  
 # AEOSS 🌍  
 ## **Agile Earth Observation Satellite Scheduling**
 
 AEOSS is a **research-oriented Python project** that implements an efficient **Branch and Bound** algorithm to solve the complex scheduling problem of **agile Earth observation satellites**.
+
+</div>
 
 The goal is to **maximize observation profit** (scientific/commercial value) while respecting:
 - Satellite **agility** (slew time, maneuver constraints)
@@ -10,7 +14,6 @@ The goal is to **maximize observation profit** (scientific/commercial value) whi
 
 It includes **pruning strategies** for better performance and **visualization** of schedules and solutions.
 
-Based on concepts from state-of-the-art research papers in **aerospace & operations research**.
 
 ## ✨ Key Features
 
